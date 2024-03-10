@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ServiceRegistryApplication {
 
 	public static void main(String[] args) {
-		System.out.println("update by nurul!!);
+		System.out.println("update by nurul!!");
 		SpringApplication.run(ServiceRegistryApplication.class, args);
 	}
 
